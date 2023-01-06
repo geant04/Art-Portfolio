@@ -29,7 +29,7 @@ A bust inspired by Argentinian soccer player Lionel Messi, done in 2021.
 
 **Leo Mesi**
 
-<img src='Art/lionel.PNG' width="500" height="270">
+<img src='Art/Lionel.PNG' width="500" height="270">
 
 ## Game Screenshots
 A collection of screenshots from various videogame projects I've worked on.
