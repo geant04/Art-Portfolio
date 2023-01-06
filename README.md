@@ -5,26 +5,31 @@ A repository showcasing my various 2D and 3D art pieces.
 Here's my collection of drawings and paintings done since 2020.
 
 **Automation, 2021**
-![](Art/hallway.jpg)
+
+<img src='Art/hallway.jpg' width="450" height="300">
 
 **Longing For The Bell, 2021**
-![](Art/alex.JPG)
+
+<img src='Art/alex.jpg' width="300" height="400">
 
 **Plugged In, 2021**
-![](Art/plugged.JPG)
+
+<img src='Art/plugged.jpg' width="300" height="400">
 
 **Today's Hero, 2020**
-![](Art/today.jpg)
+
+<img src='Art/today.jpg' width="300" height="400">
 
 ## 2D Animation
 
-![Bird-Tennis](Art/bird-tennis.mp4)
+[<img src='Art/thumbnail.png' width="500" height="300">](https://youtu.be/iGxtbiP9pas)
 
 ## 3D Modeling
 A bust inspired by Argentinian soccer player Lionel Messi, done in 2021.
 
 **Leo Mesi**
-![](Art/lionel.PNG)
+
+<img src='Art/lionel.PNG' width="500" height="270">
 
 ## Game Screenshots
 A collection of screenshots from various videogame projects I've worked on.
