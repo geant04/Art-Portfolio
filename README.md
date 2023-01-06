@@ -10,11 +10,11 @@ Here's my collection of drawings and paintings done since 2020.
 
 **Longing For The Bell, 2021**
 
-<img src='Art/alex.jpg' width="300" height="400">
+<img src='Art/alex.JPG' width="300" height="400">
 
 **Plugged In, 2021**
 
-<img src='Art/plugged.jpg' width="300" height="400">
+<img src='Art/plugged.JPG' width="300" height="400">
 
 **Today's Hero, 2020**
 
