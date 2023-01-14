@@ -37,6 +37,8 @@ A collection of screenshots from various videogame projects I've worked on.
 <img src='Art/rhythmpro.png' width="500">
 
 [<img src='Art/target.png' width="400">](https://youtu.be/hllgDSSIdjw)
+- Click above to see video demo!
+
 
 
 
