@@ -34,8 +34,13 @@ A bust inspired by Argentinian soccer player Lionel Messi, done in 2021.
 ## Game Screenshots
 A collection of screenshots from various videogame projects I've worked on.
 
+**UPGRADE 24 Hour Game Jam project, 2022**
+<img src='Art/gamescreenshot.png' width="500">
+
+**Senior Project, RhythmPro, 2022**
 <img src='Art/rhythmpro.png' width="500">
 
+**Target Practice, made in Swing, 2022**
 [<img src='Art/target.png' width="400">](https://youtu.be/hllgDSSIdjw)
 - Click above to see video demo!
 
